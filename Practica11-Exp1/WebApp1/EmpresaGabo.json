@@ -1,0 +1,137 @@
+{
+  "EmpresaGABO": {
+    "101": {
+      "nombre": "Sala 101",
+      "direccionIP": "192.168.1.10/24",
+      "impresora": "192.168.1.11/24",
+      "Telefono IP": "192.168.1.12/24"
+
+    },
+    "102": {
+      "nombre": "Sala 102",
+      "direccionIP": "192.168.1.20/24",
+      "impresora": "192.168.1.21/24",
+      "Telefono IP": "192.168.1.22 /24"
+    },
+    "103": {
+      "nombre": "Sala 103",
+      "direcciónIP": "192.168.1.30/24",
+      "impresora": "192.168.1.31/24",
+      "Telefono IP": "172.16.1.32/24"
+
+    },
+    "104": {
+      "nombre": "Sala 104",
+      "direccionIP": "192.168.1.40/24",
+      "impresora": "192.168.1.41/24",
+      "Telefono IP": "192.168.1.42/24"
+    },
+    "105": {
+      "nombre": " Sala 105",
+      "direcciónIP": "192.168.1.50/24",
+      "impresora": "192.168.1.51 /24",
+      "Telefono IP": "192.168.1.52 /24"
+
+    },
+    "106": {
+      "nombre": " Sala 106",
+      "direccionIP": "192.168.1.60 /24",
+      "impresora": "192.168.1.61 /24",
+      "Telefono IP": "192.168.1.62 /24"
+    },
+
+    "107": {
+      "nombre": " Sala 107",
+      "direcciónIP": "192.168.1.70/24",
+      "impresora": "192.168.1.71 /24",
+      "Telefono IP": "192.168.1.72 /24"
+
+    },
+    "108": {
+      "nombre": " Sala 108",
+      "direccionIP": "192.168.1.80 /24",
+      "impresora": "192.168.1.81 /24",
+      "Telefono IP": "192.168.1.82 /24"
+    },
+
+    "109": {
+      "nombre": " Sala 109",
+      "direcciónIP": "192.168.1.90/24",
+      "impresora": "192.168.1.91 /24",
+      "Telefono IP": "192.168.1.92 /24"
+    },
+    "110": {
+      "nombre": " Sala 110",
+      "direccionIP": "192.168.1.100/24",
+      "impresora": "192.168.1.101 /24",
+      "Telefono IP": "192.168.1.102 /24"
+    },
+
+    "111": {
+      "nombre": " Sala 111",
+      "direcciónIP": "192.168.1.110/24",
+      "impresora": "192.168.1.111 /24",
+      "Telefono IP": "192.168.1.112 /18"
+
+    },
+    "112": {
+      "nombre": " Sala 112",
+      "direccionIP": "192.168.1.120/24",
+      "impresora": "192.168.1.121 /24",
+      "Telefono IP": "192.168.1.122 /24"
+    },
+
+    "113": {
+      "nombre": " Sala 113",
+      "direcciónIP": "192.168.1.130/24",
+      "impresora": "192.168.1.131 /24",
+      "Telefono IP": "192.168.1.132 /24"
+
+    },
+    "114": {
+      "nombre": " Sala 114",
+      "direccionIP": "192.168.1.140/24",
+      "impresora": "192.168.1.141/24",
+      "Telefono IP": "192.168.1.142 /24"
+    },
+    "115": {
+      "nombre": " Sala 115",
+      "direcciónIP": "192.168.1.150/24",
+      "impresora": "192.168.1.151/24",
+      "Telefono IP": "192.168.1.152/24"
+
+    },
+    "116": {
+      "nombre": " Sala 116",
+      "direccionIP": "192.168.1.160/24",
+      "impresora": "192.168.1.161/24",
+      "Telefono IP": "192.168.1.161/24"
+    },
+    "117": {
+      "nombre": " Sala 117",
+      "direcciónIP": "192.168.1.170/24",
+      "impresora": "192.168.1.171/24",
+      "Telefono IP": "192.168.1.172/24"
+
+    },
+    "118": {
+      "nombre": " Sala 118",
+      "direccionIP": "192.168.1.180/24",
+      "impresora": "192.168.1.181/24",
+      "Telefono IP": "192.168.1.182/24"
+    },
+    "119": {
+      "nombre": " Sala 119 ",
+      "direcciónIP": "192.168.1.190/24",
+      "impresora": "192.168.1.191/24",
+      "Telefono IP": "192.168.1.191/24"
+    },
+    "120": {
+      "nombre": "Sala 120",
+      "direccionIP": "192.168.1.200/24",
+      "impresora": "192.168.1.201/24",
+      "Telefono IP": "192.168.1.202/24"
+    }
+  }
+
+}
